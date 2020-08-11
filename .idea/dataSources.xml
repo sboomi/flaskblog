@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="site" uuid="393d7020-cbf4-47fc-bf07-982b2b3fcfa1">
+    <data-source source="LOCAL" name="site [2]" uuid="b19993de-7931-4fdb-a0ab-50f7d22d61d5">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:D:\shadi\PythonProjects\PycharmProjects\flaskblog\site.db</jdbc-url>
+      <jdbc-url>jdbc:sqlite:D:\shadi\PythonProjects\PycharmProjects\flaskblog\fbmodules\site.db</jdbc-url>
     </data-source>
   </component>
 </project>
