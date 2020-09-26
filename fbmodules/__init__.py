@@ -29,9 +29,11 @@ def create_app(config_class=Config):
     from fbmodules.main.routes import main
     from fbmodules.posts.routes import posts
     from fbmodules.users.routes import users
+    from fbmodules.errors.handlers import errors
 
     app.register_blueprint(main)
     app.register_blueprint(posts)
     app.register_blueprint(users)
+    app.register_blueprint(errors)
 
     return app
