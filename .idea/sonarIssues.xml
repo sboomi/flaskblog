@@ -8,12 +8,22 @@
             <set />
           </value>
         </entry>
+        <entry key="/Flask Console">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/Python Console">
           <value>
             <set />
           </value>
         </entry>
         <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app.py">
           <value>
             <set />
           </value>
@@ -28,7 +38,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/fbmodules/config.py">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/fbmodules/forms.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/fbmodules/main/routes.py">
           <value>
             <set />
           </value>
@@ -38,12 +58,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/fbmodules/posts/forms.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/fbmodules/posts/routes.py">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/fbmodules/routes.py">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/fbmodules/templates/home.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/fbmodules/templates/layout.html">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/fbmodules/templates/login.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/fbmodules/templates/post.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/fbmodules/templates/register.html">
           <value>
             <set />
           </value>
@@ -54,6 +104,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/fbmodules/templates/reset_token.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/fbmodules/templates/user_posts.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/fbmodules/users/forms.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/fbmodules/users/routes.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/fbmodules/users/utils.py">
           <value>
             <set />
           </value>
